@@ -58,7 +58,7 @@ html, body {
   height: 100%;
   overflow: hidden;
   font-family: 'Open Sans', sans-serif;
-  background-image: url('/assets/cs-1.jpg');
+  background-image: url('https://alternatethinking-site.github.io/site/styles.css/assets/cs-1.jpg');
   background-size: cover;
 }
 
