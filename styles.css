@@ -58,9 +58,8 @@ html, body {
   height: 100%;
   overflow: hidden;
   font-family: 'Open Sans', sans-serif;
-  background-image: url('https://alternatethinking-site.github.io/site/assets/cs-1.webp');
+  background-image: url('https://alternatethinking-site.github.io/site/assets/cs-1.png');
   background-size: cover;
-  filter: opacity(0.20)
 }
 
 .cs-wrapper {
@@ -76,5 +75,5 @@ html, body {
 .cs-wrapper h1 {
   text-transform: uppercase;
   font-size: 48px;
-  color: red;
+  color: black;
 }
