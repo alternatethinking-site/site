@@ -58,7 +58,7 @@ html, body {
   height: 100%;
   overflow: hidden;
   font-family: 'Open Sans', sans-serif;
-  background-image: url('https://alternatethinking-site.github.io/site/assets/cs-1.jpg');
+  background-image: url('https://alternatethinking-site.github.io/site/assets/cs-1.webp');
   background-size: cover;
 }
 
@@ -68,11 +68,12 @@ html, body {
   left: 50%;
   margin-top: -135px;
   margin-left: -175px;
-  max-width: 400px;
+  max-width: 600px;
   line-height: 80px;
 }
 
 .cs-wrapper h1 {
   text-transform: uppercase;
   font-size: 48px;
+  color: whitesmoke;
 }
