@@ -3,6 +3,14 @@ html, body {
   height: 100%;
 }
 
+#navbarNav {
+  flex-direction: row-reverse;
+}
+
+.backdrop {
+  background-color: rgba(var(--bs-dark-rgb), 0.25) !important
+}
+
 .hero {
   min-height: 75vh;
 }
