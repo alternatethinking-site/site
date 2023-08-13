@@ -7,6 +7,10 @@ html, body {
   min-height: 75vh;
 }
 
+.background-image {
+  background-image: url('/assets/background.jpg')
+}
+
 .divider {
   height: 3rem;
   background-color: rgba(0, 0, 0, .1);
